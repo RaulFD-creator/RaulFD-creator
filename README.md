@@ -6,4 +6,4 @@ Although, my professional focus is on AI devlopment, I also find scientific divu
 
 Moreover, inspired by some challenges I faced during the first stages of my Master's Thesis, I have begun developing a Python package to wrap some of the most important classes and functionalities of Pytorch to simplify the process of designing DCNN and multi-channel DCNN (MC-DCNN). Its provisional name is eztorch4conv.
 
-Finally, I am writting a blog about deep learning. The idea is to provide clear, simple explanations for the main concepts in deep learning to help provide a conceptual framework for any newcomers. If it is something that might interest you, check it out: https://raulfernandezdiaz.wixsite.com/website-2/blog
+Finally, I am writting a blog about deep learning. The idea is to provide clear, simple explanations for the main concepts in deep learning to help any newcomers to build their conceptual framework. If it is something that might interest you, check it out: https://raulfernandezdiaz.wixsite.com/website-2/blog
