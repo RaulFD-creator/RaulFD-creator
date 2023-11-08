@@ -1,6 +1,6 @@
 # Welcome to my Github repository
 
-Greetings and welcome to my Github repository, my name is Raúl Fernández Díaz and I'm a PhD Student working under the supervision of Prof. Denis Shields (UCD Conway Institute) and Thanh Lam Hoang (IBM Research) on Foundation Models for Protein Representation Learning. I hold a BSc. in Biotechnology and a MSc. in Bioinformatics, that allow me to tackle the complex idiosyncrasies of working at the interface between computation, statistics, biology, and chemistry with a holistic approach. In this repository, you may find some projects I am working on. 
+Greetings and welcome to my Github repository, my name is Raúl Fernández Díaz and I'm a PhD Student working under the supervision of Prof. Denis Shields (UCD Conway Institute) and Thanh Lam Hoang (IBM Research) on Foundation Models for Protein Representation Learning. I hold a BSc. in Biotechnology and a MSc. in Bioinformatics, which allow me to tackle the complex idiosyncrasies of working at the interface between computation, statistics, biology, and chemistry with a holistic approach. In this repository, you may find some projects I am working on. 
 
 ##  Application of Foundation Models on Biochemistry
 
