@@ -9,6 +9,12 @@ One of my professional focuses is the application of novel Foundation Models lik
 - **AutoPeptideML:** an end-to-end, user-friendly application and web service that enables experimental researchers to build their own custom models for peptide bioactivity prediction for drug discovery. This is an Automated Machine Learning (AutoML) tool to tackle challenges ranging from data acquisition (small dataset sizes, sparse labeling) to peptide representation, independence of evaluation datasets and interpretation of results. It does so by leveraging large FMs (Protein Language Models), a novel homology partitioning algorithm and simplifying the process for users with limited ML knowledge, promoting reproducibility and best practices. There is a dedicated [webserver](http://peptide.ucd.ie/AutoPeptideML) and a [Github Repository](https://github.com/IBM/AutoPeptideML).
 
 
+## Development of new Foundation Models for Biochemistry
+
+The main focus of my thesis is the development of new Foundation Models for Biochemistry. Here are some of the projects, I've been working on:
+
+- **Otter-Knowledge:** a system that allows for generating multi-modal knowledge graphs from diverse sources and training GNNs on them for enhancing entity representation. The approach has been developed with biochemical applications in mind, particularly for drug discovery. Early results show improved performance on protein-ligand binding affinity prediction in three different benchmark datasets. More information in the [paper pre-print](https://arxiv.org/abs/2306.12802) and the [Github Repository](https://github.com/IBM/otter-knowledge).
+
 ## Scientific divulgation
 
 Though my professional focus is on AI development, I also find scientific divulgation and teaching fascinating. Here are some of the projects related to that aspect of my work.
