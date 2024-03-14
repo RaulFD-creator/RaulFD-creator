@@ -3,11 +3,12 @@
 Greetings and welcome to my Github repository, my name is Raúl Fernández Díaz and I'm a PhD Student working under the supervision of Prof. Denis Shields (UCD Conway Institute) and Thanh Lam Hoang (IBM Research) on Foundation Models for Protein Representation Learning. I hold a BSc. in Biotechnology and a MSc. in Bioinformatics, which allow me to tackle the complex idiosyncrasies of working at the interface between computation, statistics, biology, and chemistry with a holistic approach. In this repository, you may find some projects I am working on. 
 
 
-##  Application of Foundation Models on Biochemistry
+##  Generalisation of Biochemical Foundation Models to new data
 
-One of my professional focuses is the application of novel Foundation Models like Protein Language Models for accelerating scientific discovery, particularly on the fields of biochemistry and drug discovery. This section contains my work in that area:
+One of my professional focuses is the application of novel Foundation Models on the fields of biochemistry and drug discovery (like Protein Language Models) for accelerating scientific discovery, particularly evaluating and improving their generalisation to new data. This section contains my work in that area:
 
 - **AutoPeptideML:** an end-to-end, user-friendly application and web service that enables experimental researchers to build their own custom models for peptide bioactivity prediction for drug discovery. This is an Automated Machine Learning (AutoML) tool to tackle challenges ranging from data acquisition (small dataset sizes, sparse labeling) to peptide representation, independence of evaluation datasets and interpretation of results. It does so by leveraging large FMs (Protein Language Models), a novel homology partitioning algorithm and simplifying the process for users with limited ML knowledge, promoting reproducibility and best practices. There is a dedicated [webserver](http://peptide.ucd.ie/AutoPeptideML) and a [Github Repository](https://github.com/IBM/AutoPeptideML).
+- **Hestia:** a suite of tools for introducing similarity correction and analysis techniques to biochemical data including similarity calculation, clustering, similarity reduction, and similarity partitioning (for creating generalisation-evaluating training/test dataset splits. There is a dedicated [webserver](http://peptide.ucd.ie/Hestia) and a [Github Repository](https://github.com/IBM/Hestia-OOD).
 
 
 ## Development of new Foundation Models for Biochemistry
