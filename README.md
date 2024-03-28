@@ -30,3 +30,4 @@ Though my professional focus is on AI development, I also find scientific divulg
 One important step on Bioinformatics tool development is making them accesible to users that may not have a computational background and, therefore, require user-friendly deployment.
 
 - **ShieldsLab webserver:** This webserver can be accessed at the [http://peptide.ucd.ie](http://peptide.ucd.ie) and contains the main Bioinformatics tools developed in the group.
+- **ShieldsLab website:** Not technically a webserver, but I also work on maintaining the group website, which can be accessed from [this link](https://shields-lab.github.io/shieldslab/).
