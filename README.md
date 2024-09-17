@@ -2,6 +2,10 @@
 
 Greetings and welcome to my Github repository, my name is Raúl Fernández Díaz and I'm a PhD Student working under the supervision of Prof. Denis Shields (UCD Conway Institute) and Thanh Lam Hoang (IBM Research) on Foundation Models for Protein Representation Learning. I hold a BSc. in Biotechnology and a MSc. in Bioinformatics, which allow me to tackle the complex idiosyncrasies of working at the interface between computation, statistics, biology, and chemistry with a holistic approach. In this repository, you may find some projects I am working on. 
 
+## Hybrid Knowledge-based and ML predictor for metal diffusion pathways
+
+A project I've developed during my master thesis was how to predict metal ion diffusion pathways within proteins. It culminated in BioBrigit, you can check the [paper pre-print]() and the [Github Repository](https://github.com/insilichem/BioBrigit).
+
 
 ##  Generalisation of Biochemical Foundation Models to new data
 
@@ -15,7 +19,7 @@ One of my professional focuses is the application of novel Foundation Models on 
 
 The main focus of my thesis is the development of new Foundation Models for Biochemistry. Here are some of the projects, I've been working on:
 
-- **Otter-Knowledge:** a system that allows for generating multi-modal knowledge graphs from diverse sources and training GNNs on them for enhancing entity representation. The approach has been developed with biochemical applications in mind, particularly for drug discovery. Early results show improved performance on protein-ligand binding affinity prediction in three different benchmark datasets. More information in the [paper pre-print](https://arxiv.org/abs/2306.12802) and the [Github Repository](https://github.com/IBM/otter-knowledge).
+- **Otter-Knowledge:** a system that allows for generating multi-modal knowledge graphs from diverse sources and training GNNs on them for enhancing entity representation. The approach has been developed with biochemical applications in mind, particularly for drug discovery. Early results show improved performance on protein-ligand binding affinity prediction in three different benchmark datasets. More information in the [AAAI paper](https://arxiv.org/abs/2306.12802) and the [Github Repository](https://github.com/IBM/otter-knowledge).
 
 
 ## Webserver Building and Maintenance
@@ -29,7 +33,7 @@ One important step on Bioinformatics tool development is making them accesible t
 
 Though my professional focus is on AI development, I also find scientific communication and teaching fascinating. Here are some of the projects related to that aspect of my work.
 
-- **VII SECUAH Congress:** Workshop titled "Aprendizaje profundo en biomedicina" - Deep Learning on Biomedicine. I've taught a cohort of biosciences students (undergrad and graduate) about artificial intelligence, machine learning, and deep learning techniques and how to apply them to biomedical research. The workshop lasted 4 h and finished with a guided practical example where every student was able to build their own deep convolutional neural network for diagnosing skin lessions as either bening or cancerous. Materials can be found in this [Github Repository](https://github.com/RaulFD-creator/SECUAH).
-- **IX SECUAH Congress:** Workshop titled "Modelos que aprenden el lenguaje de las moléculas" - Models that learn the language of molecules. I've taught a cohort of biosciences students (undergrad and graduate) about artificial intelligence, particularly language models, and their main applications in biomedical and biochemical research. The workshop lasted 4 h and finished with a guided practical example where every student was able to re-train MolFormer-XL to build their own small molecule toxicity predictive model. Materials can be found in this [Github Repository](https://github.com/RaulFD-creator/SECUAH).
+- **VII SECUAH Congress:** Workshop titled "Aprendizaje profundo en biomedicina" - Deep Learning on Biomedicine. I've taught a cohort of biosciences students (undergrad and graduate) about artificial intelligence, machine learning, and deep learning techniques and how to apply them to biomedical research with a guided practical example where every student was able to build their own deep convolutional neural network for diagnosing skin lessions as either bening or cancerous. Materials can be found in this [Github Repository](https://github.com/RaulFD-creator/SECUAH).
+- **IX SECUAH Congress:** Workshop titled "Modelos que aprenden el lenguaje de las moléculas" - Models that learn the language of molecules. The guided practical example allowed every student to finetune MolFormer-XL to build their own small molecule toxicity predictive model. Materials can be found in this [Github Repository](https://github.com/RaulFD-creator/SECUAH).
 
 
