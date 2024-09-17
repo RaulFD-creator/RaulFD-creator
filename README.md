@@ -2,9 +2,11 @@
 
 Greetings and welcome to my Github repository, my name is Raúl Fernández Díaz and I'm a PhD Student working under the supervision of Prof. Denis Shields (UCD Conway Institute) and Thanh Lam Hoang (IBM Research) on Foundation Models for Protein Representation Learning. I hold a BSc. in Biotechnology and a MSc. in Bioinformatics, which allow me to tackle the complex idiosyncrasies of working at the interface between computation, statistics, biology, and chemistry with a holistic approach. In this repository, you may find some projects I am working on. 
 
-## Hybrid Knowledge-based and ML predictor for metal diffusion pathways
+## ML application in protein biochemistry
 
-A project I've developed during my master thesis was how to predict metal ion diffusion pathways within proteins. It culminated in BioBrigit, you can check the [paper pre-print]() and the [Github Repository](https://github.com/insilichem/BioBrigit).
+This subsection covers several self-contained projects around the application of ML algorithms to different predictive problems in biochemistry:
+
+- **BioBrigit:** a project I've developed during my master thesis to predict metal ion diffusion pathways within proteins, you can check the [paper pre-print]() and the [Github Repository](https://github.com/insilichem/BioBrigit).
 
 
 ##  Generalisation of Biochemical Foundation Models to new data
