@@ -14,7 +14,7 @@ This subsection covers several self-contained projects around the application of
 One of my professional focuses is the application of novel Foundation Models on the fields of biochemistry and drug discovery (like Protein Language Models) for accelerating scientific discovery, particularly evaluating and improving their generalisation to new data. This section contains my work in that area:
 
 - **AutoPeptideML:** an end-to-end, user-friendly application and web service that enables experimental researchers to build their own custom models for peptide bioactivity prediction for drug discovery. There is a dedicated [webserver](http://peptide.ucd.ie/AutoPeptideML) and a [Github Repository](https://github.com/IBM/AutoPeptideML). There is more information available on the [paper](https://doi.org/10.1093/bioinformatics/btae555).
-- **Hestia-OOD:** a suite of tools for analysing the ability of predictive models to generalise to out-of-distribution data (OOD). There is a [Github Repository](https://github.com/IBM/Hestia-OOD).
+- **Hestia-GOOD:** a suite of tools for analysing the ability of predictive models to generalise to out-of-distribution data (OOD). There is a [Github Repository](https://github.com/IBM/Hestia-GOOD). The paper has been accepted for ICLR2025, you can check it out [here](https://openreview.net/forum?id=qFZnAC4GHR&noteId=5wtsvjnGLZ).
 
 
 ## Development of new Foundation Models for Biochemistry
