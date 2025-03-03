@@ -17,13 +17,6 @@ One of my professional focuses is the application of novel Foundation Models on 
 - **Hestia-GOOD:** a suite of tools for analysing the ability of predictive models to generalise to out-of-distribution data (OOD). There is a [Github Repository](https://github.com/IBM/Hestia-GOOD). The paper has been accepted for ICLR2025, you can check it out [here](https://openreview.net/forum?id=qFZnAC4GHR&noteId=5wtsvjnGLZ).
 
 
-## Development of new Foundation Models for Biochemistry
-
-The main focus of my thesis is the development of new Foundation Models for Biochemistry. Here are some of the projects, I've been working on:
-
-- **Otter-Knowledge:** a system that allows for generating multi-modal knowledge graphs from diverse sources and training GNNs on them for enhancing entity representation. The approach has been developed with biochemical applications in mind, particularly for drug discovery. Early results show improved performance on protein-ligand binding affinity prediction in three different benchmark datasets. More information in the [AAAI paper](https://arxiv.org/abs/2306.12802) and the [Github Repository](https://github.com/IBM/otter-knowledge).
-
-
 ## Webserver Building and Maintenance
 
 One important step on Bioinformatics tool development is making them accesible to users that may not have a computational background and, therefore, require user-friendly deployment.
