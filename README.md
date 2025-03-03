@@ -6,8 +6,8 @@ Greetings and welcome to my Github repository, my name is Raúl Fernández Díaz
 
 This subsection covers several self-contained projects around the application of ML algorithms to different predictive problems in biochemistry:
 
-- **BioBrigit:** a project I've developed during my master thesis to predict metal ion diffusion pathways within proteins, you can check the [paper pre-print]() and the [Github Repository](https://github.com/insilichem/BioBrigit).
-
+- **BioBrigit:** a new prediction tool for identifying metal ion diffusion pathways within proteins I developed as part of my Master's thesis at [Insilichem](https://insilichem.com/), you can check the [paper pre-print](https://www.biorxiv.org/content/10.1101/2024.09.19.613875) and the [Github Repository](https://github.com/insilichem/BioBrigit).
+- **HemeFinder:** a new prediction tool for identifying heme-binding sites in proteins, which I helped developed during my internship at [Insilichem](https://insilichem.com/), you can check the [paper pre-print]() and the [Github Repository]().
 
 ##  Generalisation of Biochemical Foundation Models to new data
 
