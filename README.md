@@ -6,15 +6,15 @@ Greetings and welcome to my Github repository, my name is Raúl Fernández Díaz
 
 This subsection covers several self-contained projects around the application of ML algorithms to different predictive problems in biochemistry:
 
-- **BioBrigit:** a new prediction tool for identifying metal ion diffusion pathways within proteins I developed as part of my Master's thesis at [Insilichem](https://insilichem.com/), you can check the [paper pre-print](https://www.biorxiv.org/content/10.1101/2024.09.19.613875) and the [Github Repository](https://github.com/insilichem/BioBrigit).
-- **HemeFinder:** a new prediction tool for identifying heme-binding sites in proteins, which I helped developed during my internship at [Insilichem](https://insilichem.com/), you can check the [paper pre-print](https://www.biorxiv.org/content/10.1101/2025.04.14.648773v1) and the [Github Repository](https://github.com/laura-tiessler/hemefinder).
+- **BioBrigit:** a new prediction tool for identifying metal ion diffusion pathways within proteins, you can check the [ACS Omega paper](https://pubs.acs.org/doi/full/10.1021/acsomega.5c00608) and the [Github Repository](https://github.com/insilichem/BioBrigit).
+- **HemeFinder:** a new prediction tool for identifying heme-binding sites in proteins, you can check the [paper pre-print](https://www.biorxiv.org/content/10.1101/2025.04.14.648773v1) and the [Github Repository](https://github.com/laura-tiessler/hemefinder).
 
 ##  Generalisation of Biochemical Foundation Models to new data
 
-One of my professional focuses is the application of novel Foundation Models on the fields of biochemistry and drug discovery (like Protein Language Models) for accelerating scientific discovery, particularly evaluating and improving their generalisation to new data. This section contains my work in that area:
+One of my professional focuses is the application of novel Foundation Models on the fields of biochemistry and drug discovery (like Protein Language Models) for accelerating scientific discovery:
 
-- **AutoPeptideML:** an end-to-end, user-friendly application and web service that enables experimental researchers to build their own custom models for peptide bioactivity prediction for drug discovery. There is a dedicated [webserver](http://peptide.ucd.ie/AutoPeptideML) and a [Github Repository](https://github.com/IBM/AutoPeptideML). There is more information available on the [paper](https://doi.org/10.1093/bioinformatics/btae555).
-- **Hestia-GOOD:** a suite of tools for analysing the ability of predictive models to generalise to out-of-distribution data (OOD). There is a [Github Repository](https://github.com/IBM/Hestia-GOOD). The paper has been accepted for ICLR2025, you can check it out [here](https://openreview.net/forum?id=qFZnAC4GHR&noteId=5wtsvjnGLZ).
+- **AutoPeptideML:** an end-to-end, user-friendly application and web service that enables experimental researchers to build their own custom models for peptide bioactivity prediction for drug discovery. There is a dedicated [webserver](http://peptide.ucd.ie/AutoPeptideML) and a [Github Repository](https://github.com/IBM/AutoPeptideML). For more details, check the [OUP Bioinformatics paper](https://doi.org/10.1093/bioinformatics/btae555).
+- **Hestia-GOOD:** a suite of tools for analysing the ability of predictive models to generalise to out-of-distribution data (OOD). There is a [Github Repository](https://github.com/IBM/Hestia-GOOD). For more details, check the [ICLR 2025 paper](https://openreview.net/forum?id=qFZnAC4GHR&noteId=5wtsvjnGLZ).
 
 
 ## Webserver Building and Maintenance
