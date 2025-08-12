@@ -9,7 +9,7 @@ This subsection covers several self-contained projects around the application of
 - **BioBrigit:** a new prediction tool for identifying metal ion diffusion pathways within proteins, you can check the [ACS Omega paper](https://pubs.acs.org/doi/full/10.1021/acsomega.5c00608) and the [Github Repository](https://github.com/insilichem/BioBrigit).
 - **HemeFinder:** a new prediction tool for identifying heme-binding sites in proteins, you can check the [paper pre-print](https://www.biorxiv.org/content/10.1101/2025.04.14.648773v1) and the [Github Repository](https://github.com/laura-tiessler/hemefinder).
 
-##  Generalisation of Biochemical Foundation Models to new data
+##  Trustworthy machine learning
 
 One of my professional focuses is the application of novel Foundation Models on the fields of biochemistry and drug discovery (like Protein Language Models) for accelerating scientific discovery:
 
